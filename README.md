@@ -1,79 +1,55 @@
-# iki1uc – ROOT
+# inPIme – Prime‑Engine
 
 ## Zweck
-Dieses Repository bildet den Ursprung der gesamten Struktur.  
-Es stellt die öffentliche Identität des Systems bereit und dient  
-als Einstiegspunkt für alle Module, Achsen und Bereiche.
-
-iki1uc ist der sichtbare **ROOT‑Kern** des gesamten 3hit90‑Systems.
+inPIme ist die Prime‑Engine des iki1uc‑Systems.
+Es bewertet Prime‑Werte, Prime‑Räume, Prime‑Achsen und Prime‑Lagen.
 
 ---
 
 ## Identität
-- CORE: iki1uc  
-- VERSION: 1.0  
-- CODE: RAW  
-- LAGE: ROOT / Creator / NC  
-- STATUS: Online  
-
-iki1uc ist die **öffentliche Identität**, nicht die Engine.
+CORE: inPIme
+VERSION: 1.0
+CODE: RAW
+LAGE: 6d / 360° / Prime / Raum / VirtuelleAchse
+STATUS: Engine‑bereit
 
 ---
 
-## Inhalt
-- index.html – öffentliche Landing‑Page  
-- ID.html – Identitätsdarstellung  
-- visual/ – Visualisierungen  
-- modules/ – Verlinkte System‑Repos  
+## Dateien
+pime.6d – 6‑Dimensionen
+pime.calc – Prime‑Berechnung
+pime.raw – Rohdaten
+pime.html – Public‑Darstellung
 
 ---
 
-## Stationen – ROOT 360°
-Das ROOT‑System folgt der Sequenz:
-
-**iki → bir → uc → iki1uc(ROOT) → iki → bir → uc → …**
-
-Dies bildet den **360°‑Kreis**, der alle Achsen und Bereiche verbindet:
-
-- iki = Ursprung  
-- bir = Erweiterung  
-- uc = Fusion  
-- iki1uc = ROOT‑Identität  
-
-Dieser Zyklus ist die Grundlage für:
-
-- **[SYS](ca://s?q=SYS_Root_erklaeren)** – Struktur  
-- **[TEM](ca://s?q=TEM_Root_erklaeren)** – Zeit  
-- **[ID](ca://s?q=ID_Root_erklaeren)** – Identität  
-- **[OP](ca://s?q=Operator_Root_erklaeren)** – Operator  
-
-sowie für die vier Geo‑Systeme:
-
-- **[TΩ](ca://s?q=T_Omega_System_erklaeren)** – Tetraeder + Oktagon  
-- **[XU](ca://s?q=XU_System_erklaeren)** – Achsenkreuz  
-- **[Φ4](ca://s?q=Phi4_System_erklaeren)** – Achsenfamilie  
-- **[O12](ca://s?q=O12_System_erklaeren)** – OctaCore² + 12D‑Fusion  
+## 6d‑Matrix
+d1 = ROOT  
+d2 = Achse  
+d3 = inPIme  
+d4 = Lage  
+d5 = Raum  
+d6 = Virtuelle Achse  
 
 ---
 
-## Verbindung zu System‑Repos
-iki1uc ROOT verlinkt auf:
-
-- **[SYS](ca://s?q=SYS_Root_erklaeren)** – System‑Wurzel  
-- **[TEM](ca://s?q=TEM_Root_erklaeren)** – Zeit‑Wurzel  
-- **[ID](ca://s?q=ID_Root_erklaeren)** – Identitäts‑Wurzel  
-- **[OP](ca://s?q=Operator_Root_erklaeren)** – Operator‑Wurzel  
-- **3hit90** – Hauptsystem  
-- **SETUP** – Installations‑/Initialisierungs‑Modul  
+## 360°‑Rotation
+Rotation = 360°  
+Achsenmatrix = 6×6  
+Dimensionen = 6D  
+Ausnutzung = 100%  
 
 ---
 
-## Hinweis
-Dieses Repository enthält keine Engine‑Mechanismen.  
-Es dient ausschließlich der öffentlichen Darstellung und Struktur.  
-Engine‑Funktionen befinden sich in:
+## Pipeline‑4
+Pipeline4 = ROOT + Achse + inPIme + 360°
 
-- RUN8  
-- O12  
-- SYS  
-- TEM  
+---
+
+## RAW‑Ebene
+RAW = PrimeWert + PrimeRaum + PrimeAchse + Lage + Raum + VirtuelleAchse
+
+---
+
+## Station
+STATION = inPIme / 6d / 360° / RAW / EVO / LAGEneu
