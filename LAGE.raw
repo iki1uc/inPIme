@@ -1,5 +1,4 @@
-LAGEneu = LA(GE(LE(GO(TET(RIZ(100(6d)360°)Achse)AXI)USER)USE)
-
+LAGEneu = LA(GE(LE(GO(TET(RIZ(100(6d)360°)Achse)AXI)USER)USE))
 LAGEneuPIme = LAGEneu × inPIme
 
-RAWPIme = PrimeWert + PrimeRaum + PrimeAchse + Lage + Raum + VirtuelleAchse
+RAWPIme = PrimeWert + PrimeRaum + PrimeAchse + PrimeLage + Raum + VirtuelleAchse
