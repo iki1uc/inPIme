@@ -1,1 +1,21 @@
+GEO – Geometrie‑Achse der Prime‑Engine
+
+CORE = inPIme
+CODE = RAW
+IDENTITY = Prime‑Identität
+
+GEO = Geometrie‑Achse
+FORM = Prime‑Octaeder
+RAUM = PrimeRaum
+LAGE = PrimeLage
+ACHSE = PrimeAchse + VirtuelleAchse
+
+6d‑KOPPLUNG = aktiv
+360°‑KOPPLUNG = aktiv
+NC‑OPERATOR = aktiv
+
+Bedeutung:
+GEO bildet die geometrische Grundlage der Prime‑Engine.
+Sie definiert Form, Raum, Lage und Achsenkörper.
+Alle Prime‑Module nutzen GEO als räumliche Basis.
 
